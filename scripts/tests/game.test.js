@@ -2,7 +2,7 @@
  * @jest-environment jsdom
  */
 
-const { game } = require("../game");
+const { game } = require(".. /game");
 
 
 beforeAll(() => {
