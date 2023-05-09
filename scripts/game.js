@@ -1,4 +1,4 @@
-let game = {
+npm testlet game = {
     currentGame: [],
     playerMoves: [],
     score: 0,
